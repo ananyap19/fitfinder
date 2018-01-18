@@ -1,35 +1,14 @@
-a:link, a:visited {
-    background-color: #ffd3d9;
-    color: black;
-    padding: 9px 15px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-family: "Verdana Header";
-    font-size: 30px
+body{
+    background-image: url(blocking.jpg);
 }
-
-body {
-    background-image: url("rose.jpg"); 
-}
-
-h1 {
-    text-align: center;
-    font-family: "Palatino";
-    font-size: 60px;
-     font-weight: bold;
-}
-
-h2 {
-    text-align: center;
-    font-size: 50px;
-    font-family= "Palatino";
-   
-}
-
 form {
-    border: 3px solid #000;
+    border: 3px solid #FFC0CB;
 }
+h2 {
+    font-size: 50px;
+    text-align: center;
+     font-family:verdana header;
+} 
 
 input[type=text], input[type=password] {
     width: 100%;
@@ -62,21 +41,21 @@ button:hover {
 
 .imgcontainer {
     text-align: center;
-    margin: 5px 0 5px 0;
+    margin: 24px 0 12px 0;
 }
 
 img.avatar {
-    width: 20%;
-    border-radius: 50%; 
+    width: 40%;
+    border-radius: 50%;
 }
 
 .container {
-    padding: 10px;
+    padding: 16px;
 }
 
 span.psw {
     float: right;
-    padding-top: 5px;
+    padding-top: 16px;
 }
 
 /* Change styles for span and cancel button on extra small screens */
