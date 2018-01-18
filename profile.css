@@ -1,0 +1,35 @@
+a:link, a:visited {
+    background-color: #ffd3d9;
+    color: black;
+    padding: 9px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Verdana Header";
+    font-size: 30px
+}
+
+body {
+    background-image: url("rose.jpg"); 
+}
+
+h1 {
+    text-align: center;
+    font-family: "Palatino";
+    font-size: 90px;
+     font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family= "Palatino";
+    word-spacing: 350px;
+   
+}
+
+img { 
+     text-align: center;
+}
+
+ 
